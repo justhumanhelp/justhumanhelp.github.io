@@ -1,6 +1,13 @@
 ---
 layout: misc
-title: About
+title: A propos
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+JustHumanHelp est une association de loi 1901 d'utilité publique. Elle a quatre objectifs majeurs :
+1. Servir, représenter et défendre les personnes démunies, notamment à travers des récoltes de
+vêtements ou des livraisons de nourriture.
+2. Contribuer à l’amélioration du cadre de vie des personnes, participer à l’intégration des personnes
+démunies.
+3. Promouvoir la culture, la diversité, le dialogue.
+4. Défendre les droits de l’homme et lutter contre toutes formes de racisme, de discriminations et
+d’incitation à la haine raciale.
