@@ -16,7 +16,6 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Just Human Help"
 description:	       "Association de loi 1901"
-author:              "JustHumanHelp"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
